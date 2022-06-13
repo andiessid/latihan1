@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "body-parser": "^1.20.0",
     "express": "^4.18.1"
   },
   "name": "latihan1",
@@ -8,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index" 
+    "start": "nodemon index"
   },
   "author": "andis",
   "license": "ISC"
